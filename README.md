@@ -1,4 +1,4 @@
-<img src="http://imgur.com/1ZcRyrc.png" style="float: left; margin: 20px; height: 55px">
+<img src="http://imgur.com/1ZcRyrc.png" align="left" height="55px">
 
 # Predicting rental prices and identifying ‘systemised’ listings using Airbnb data
 
@@ -26,7 +26,7 @@ The article identifies a network of connected host accounts behind 200 ‘system
 
 The aim of Part 2 was to use network analysis to find host accounts which are connected via reviewers to identify this network and potentially other similar networks.
 
-# Files in this repository
+## Files in this repository
 - [Project Presentation](Capstone_Project_Presentation.pdf): This was prepared to present the project and its findings to a non-technical audience.
 - Jupyter Notebook files:
   - [Part 1 - Data cleaning](part-1/data-cleaning/)
