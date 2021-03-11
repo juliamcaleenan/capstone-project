@@ -2,8 +2,6 @@
 
 # Predicting rental prices and identifying ‘systemised’ listings using Airbnb data
 
-<hr>
-
 ### Final Capstone project for General Assembly Data Science Immersive course
 
 > Part 1 - Can we predict rental prices for Airbnb properties in London? Which factors have the greatest influence on the price?   
