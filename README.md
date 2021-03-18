@@ -24,6 +24,8 @@ The article identifies a network of connected host accounts behind 200 ‘system
 
 The aim of Part 2 was to use network analysis to find host accounts which are connected via reviewers to identify this network and potentially other similar networks.
 
+The findings of Part 2 are also published in this [article](https://towardsdatascience.com/identifying-potential-scam-listings-on-airbnb-e9aed41611e5) in Towards Data Science.
+
 ## Files in this repository
 - [Project Presentation](Capstone_Project_Presentation.pdf): This was prepared to present the project and its findings to a non-technical audience.
 - Jupyter Notebook files:
